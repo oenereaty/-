@@ -1,4 +1,4 @@
-![image](https://github.com/oenereaty/ppp_Final_Project/assets/152669285/ba8a27b5-8437-43ef-baa4-c8bca6c95a43)![image](https://github.com/oenereaty/ppp_Final_Project/assets/152669285/56d82beb-b34f-4570-8115-68cf709187f0)## <프로그래밍 원리와 실습 기말 프로젝트> - 점심 메뉴 추천 프로그램
+## <프로그래밍 원리와 실습 기말 프로젝트> - 점심 메뉴 추천 프로그램
 
 
 #### ☝🏻사용 방법
